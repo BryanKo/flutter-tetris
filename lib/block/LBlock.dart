@@ -12,6 +12,6 @@ class LBlock extends Block {
     points[2] = Point((width/2 + 0).floor(), 0);
     points[3] = Point((width/2 + 1).floor(), 0);
     rotateCenter = points[1];
-    color = Colors.blue;
+    color = Colors.orange;
   }
 }
